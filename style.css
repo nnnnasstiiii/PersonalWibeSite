@@ -8,7 +8,7 @@
 body {
     margin: 0;
     padding: 0;
-    background: url('../img.png.jpg') center center/cover no-repeat;
+    background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEMMv0UVaZftn67lB6C8EqcZf0c6iH3STuKw&usqp=CAU') center center/cover no-repeat;
     background-size: cover;
 }
 
